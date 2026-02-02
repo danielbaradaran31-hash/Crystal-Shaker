@@ -1,5 +1,7 @@
 import { useGSAP } from '@gsap/react'
 import { navLinks } from '../../constanc/index.js'
+import gsap from 'gsap';
+import { ScrollTrigger } from 'gsap/all';
 
 
 const Navbar = () => {
