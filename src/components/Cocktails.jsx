@@ -1,7 +1,19 @@
-import React from 'react'
+import { useGSAP } from '@gsap/react'
+import gsap from 'gsap';
 import { cocktailLists, mockTailLists } from '../../constanc'
 
+
 const Cocktails = () => {
+    useGSAP(() => {
+        const parallaxTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: '#cocktails',
+                start: 'top 30%',
+                end: 'bottom 80%',
+                scrub: true,
+            }
+        })
+    });
   return (
     <section id='cocktails' className='noisy'>
         <img 
