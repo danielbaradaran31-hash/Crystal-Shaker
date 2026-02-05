@@ -25,7 +25,7 @@ const About = () => {
 
                     </p>
                     <p className='text-sm text-white-100'>
-                        More than
+                        More than +12000 customers
 
                     </p>
                 </div>
@@ -34,6 +34,25 @@ const About = () => {
             </div>
         </div>
         
+
+        <div className='top-grid'>
+            <div className='md:col-span-3'>
+                <div className='noisy'/>
+                <img src='/public/images/abt1.png' alt='grid-img-1' />
+            </div>
+
+
+             <div className='md:col-span-6'>
+                <div className='noisy'/>
+                <img src='/public/images/abt2.png' alt='grid-img-2' />
+            </div>
+
+
+             <div className='md:col-span-3'>
+                <div className='noisy'/>
+                <img src='/public/images/abt5.png' alt='grid-img-5' />
+            </div>
+        </div>
     </div>
   )
 }
