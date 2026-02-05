@@ -13,6 +13,13 @@ const Cocktails = () => {
                 scrub: true,
             }
         })
+
+        parallaxTimeline
+        .from('#c-left-leaf', { x: -100, y: 100  })
+        .from('#c-right-leaf', { x: 100, y: 100  })
+
+
+
     });
   return (
     <section id='cocktails' className='noisy'>
