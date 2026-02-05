@@ -3,6 +3,7 @@ import { navLinks } from '../../constanc/index.js'
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/all';
 
+gsap.registerPlugin(ScrollTrigger);
 
 const Navbar = () => {
  useGSAP(() => {

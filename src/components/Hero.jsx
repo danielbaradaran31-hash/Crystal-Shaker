@@ -86,19 +86,20 @@ const Hero = () => {
          <div className='body'>
             <div className='content'>
                 <div className='space-y-5 hidden md:block'>
-                    <p>Kühl. Klar. Klassisch.</p>
+                    <p>Cool. Crisp. Classic.</p>
                     <p className='subtitle'>
-                        Genieß den Geist <br /> des Sommers.
+                       Sip the Spirit <br /> of Summer
                     </p>
                 </div>
                 <div className='view-cocktails'>
                     <p className='subtitle'>
-                        Jeder Cocktail, den wir servieren,
-                         spiegelt unsere Leidenschaft für jedes 
-                         Detail wider – vom ersten Muddlen bis zur letzten Garnitur.
-                          Diese Sorgfalt macht aus einem einfachen Drink etwas wirklich Unvergessliches.
+                        Every cocktail on our menu is a
+                         blend of premium ingredients,
+                          creative flair, and timeless recipes
+                          — designed to delight your senses.
+                        
                     </p>
-                    <a href='#cocktails'>Cocktails ansehen</a>
+                    <a href='#cocktails'>View cocktails</a>
 
                 </div>
 
