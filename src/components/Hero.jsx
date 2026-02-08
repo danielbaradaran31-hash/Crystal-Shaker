@@ -114,7 +114,7 @@ const Hero = () => {
         muted
        playsInline
         preload='auto'
-        autoPlay webkit-playsinline="true" x5-playsinline="true"
+        
        
         />
 
