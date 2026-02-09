@@ -1,31 +1,11 @@
- Crystal Shaker — Animated React Website
-A modern, animation‑driven cocktail website built with React, GSAP, and TailwindCSS.
-The project features smooth scroll‑based animations, masked image reveals, and a fully responsive layout.
-
-
-
-
-
-🚀 Features
-GSAP ScrollTrigger animations
-
-Masked image zoom + reveal effects
-
-Transparent navbar with scroll‑activated background
-
-Responsive design for all screen sizes
-
-Data‑driven sections (cocktails, features, socials, store info)
-
-
-🛠 Tech Stack
-React
-
-GSAP + ScrollTrigger
-
-TailwindCSS
-
-React Responsive
-
-🎯 Purpose
-A practice project focused on advanced GSAP animations, UI/UX motion design, and building a premium‑style landing page.
+ Animated Cocktail Website – Iran Cafe 
+Tech: React.js, GSAP (inkl. ScrollTrigger), Tailwind CSS, React Responsive 
+Entwickelt eine moderne, animationsgetriebene Website für Cocktails mit flüssigen            
+Scroll-basierten Animationen und immersiven UI-Effekten.  
+Implementiert Masked-Image-Zoom- und Reveal-Effekte für eine dynamische und 
+benutzerzentrierte Interaktion.  
+Erstellt eine transparente Navbar mit Scroll-aktiviertem Hintergrundwechsel für eine elegante 
+Navigation. 
+Gewährleistet vollständig responsives Design, das auf allen Gerätegrößen optimal funktioniert. 
+Integriert datengetriebene Abschnitte (Cocktails, Features, Socials, Store-Info) mit Fokus auf UI/UX
+Motion-Design und Premium-Landing-Page-Struktur. 
